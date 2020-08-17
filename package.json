@@ -1,21 +1,18 @@
 {
-  "name": "PactMaker",
+  "name": "pact-maker-v2",
   "version": "0.0.1",
   "license": "MIT",
-  "engines": {
-    "node": "8.8.1"
-  },
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.19.0",
     "dotenv": "^5.0.1",
     "ejs": "^2.5.7",
-    "express": "^4.16.2",
+    "express": "^4.17.1",
     "html-pdf": "^2.2.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.20",
     "moment": "^2.22.1",
-    "postmark": "^1.5.0"
+    "postmark": "^2.5.5"
   }
 }
