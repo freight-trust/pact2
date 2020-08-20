@@ -4,12 +4,11 @@
   <br>
 </h1>
 
->Starter workflow for creating self-signed PDF agreements. [Check out the demo](https://pactmaker.herokuapp.com). If you’re working on becoming GDPR compliant, we wrote a [quick guide](https://postmarkapp.com/blog/gdpr-get-ready) on how you can get prepared.
+>Starter workflow for creating self-signed PDF agreements. 
 
+The `pre-fork` PactMaker spins up a website with a form that lets your customers self-sign PDF agreements. After each agreement is signed, it sends an email with a copy of the PDF using [Postmark](https://postmarkapp.com). PactMaker is built with node.js, express, and EJS templating.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-PactMaker spins up a website with a form that lets your customers self-sign PDF agreements. After each agreement is signed, it sends an email with a copy of the PDF using [Postmark](https://postmarkapp.com). PactMaker is built with node.js, express, and EJS templating.
+`post-fork` PactMaker includes EU Signatures support and some additional enhancements to make signature signing compatible with NFT's
 
 ![PactMaker Screenshot](media/screenshot.png)
 
