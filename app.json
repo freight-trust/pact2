@@ -1,8 +1,7 @@
 {
   "name": "PactMaker",
   "description": "Starter workflow for creating self-signed PDF agreements with node.js and express",
-  "scripts": {
-  },
+  "scripts": {},
   "env": {
     "TITLE": {
       "description": "Name of your company or app. This will appear in the header and footer.",
