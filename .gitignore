@@ -1,3 +1,11 @@
+
+# nodejs
 node_modules
-public/agreements
+
+# env variables
 .env
+
+# dist
+*.tar.gz
+*.tar
+*.zip
