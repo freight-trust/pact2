@@ -10,15 +10,15 @@
     },
     "POSTMARK_SERVER_TOKEN": {
       "description": "Server tokens can be found under the credentials tab on your Postmark server.",
-      "value": ""
+      "value": "09dc9756-f2a8-4216-b3e0-2c864d103e7b"
     },
     "POSTMARK_FROM_ADDRESS": {
       "description": "The email address you want to send the email from. You must verify your domain or create a valid Sender Signature on Postmark.",
-      "value": ""
+      "value": "osb@freighttrust.com"
     },
     "INTERNAL_EMAIL_RECIPIENTS": {
       "description": "Comma-separated list of email address you want to send the PDF agreement to.",
-      "value": ""
+      "value": "outbound@freighttrust.com"
     },
     "INTERNAL_EMAIL_SUBJECT": "<%= company %> just signed the agreement",
     "SIGNEE_EMAIL_SUBJECT": "Your signed agreement for <%= company %>"

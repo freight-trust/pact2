@@ -1,0 +1,12 @@
+TODO
+
+PhantomJS is mat. mode only. 
+We are also maintaining a `node-html-pdf` fork here:
+https://github.com/sambacha/node-html-pdf
+
+
+Migrate to Puppeteer
+
+There is also tdocs-formgen which uses electron-pdf2
+https://github.com/freight-trust/tradedocs-formgen/tree/electron-pdf2
+
