@@ -1,12 +1,12 @@
-<h1 align="center">
-  <img width="250" src="media/logo.png" alt="PactMaker">
-  <br>
-  <br>
-</h1>
+# Pact-Maker-2
 
-PactMaker spins up a website with a form that lets your customers self-sign PDF agreements. After each agreement is signed, it sends an email with a copy of the PDF using [Postmark](https://postmarkapp.com). PactMaker is built with node.js, express, and EJS templating.
 
-![PactMaker Screenshot](media/screenshot.png)
+Pact-Maker-2 spins up a website with a form that lets your customers self-sign PDF agreements. 
+After each agreement is signed, it sends an email with a copy of the PDF using [Postmark](https://postmarkapp.com).
+
+## Overview
+
+see `examples`
 
 ## Configuration
 
